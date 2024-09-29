@@ -1,4 +1,4 @@
-*.hh linguist-vendored
-*.hh linguist-generated
-*.hh linguist-language=Text
-*.hh binary
+*.hhi linguist-vendored
+*.hhi linguist-generated
+*.hhi linguist-language=Text
+*.hhi binary
