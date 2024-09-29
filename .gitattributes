@@ -1,2 +1,4 @@
 *.hack linguist-vendored
 *.hack linguist-generated
+*.hack linguist-language=Text
+*.hack binary
