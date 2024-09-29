@@ -1,4 +1,5 @@
-*.hhi linguist-vendored
-*.hhi linguist-generated
-*.hhi linguist-language=Text
-*.hhi binary
+*.php linguist-language=PHP
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.js linguist-language=JavaScript
+
